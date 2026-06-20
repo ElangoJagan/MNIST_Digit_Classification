@@ -1,0 +1,13 @@
+# Core Data Science
+numpy
+pandas
+matplotlib
+seaborn
+
+# Deep Learning
+tensorflow
+
+# Utilities
+joblib
+pyyaml
+flask
