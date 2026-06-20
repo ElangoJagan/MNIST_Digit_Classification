@@ -1,0 +1,15 @@
+
+ml_env/
+
+__pycache__/
+*.py[cod]
+artifacts/
+*.pkl
+*.h5
+*.keras
+logs/
+
+data/raw/*.csv
+.vscode/
+.DS_Store
+Thumbs.db
