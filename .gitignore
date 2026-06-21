@@ -1,18 +1,25 @@
-
+# Virtual environment
 ml_env/
 
+# Python cache
 __pycache__/
 *.py[cod]
+
+# Artifacts and models
 artifacts/
 *.pkl
 *.h5
 *.keras
+
+# Data
+data/
+
+# Logs
 logs/
 
-data/raw/*.csv
+# VS Code
 .vscode/
+
+# OS files
 .DS_Store
 Thumbs.db
-
-data/
-artifacts/
