@@ -13,7 +13,7 @@ class DataTransformationConfig:
 @dataclass
 class ModelTrainerConfig:
     #Hyperparameters
-    model_path= 'artifacts/model.h5'
+    model_path= 'artifacts/model.keras'
     epochs = 10
     batch_size = 32
     num_classes = 10

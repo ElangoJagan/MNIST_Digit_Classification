@@ -13,3 +13,6 @@ data/raw/*.csv
 .vscode/
 .DS_Store
 Thumbs.db
+
+data/
+artifacts/
